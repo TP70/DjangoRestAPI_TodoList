@@ -1,4 +1,7 @@
-asgiref==3.4.1
-Django==3.2.7
-pytz==2021.1
-sqlparse==0.4.2
+To execute, run the following commands:
+
+pip install virtualenv // virtualenv venv // source venv/bin/activate // pip install -r requirements.txt //
+
+python manage.py runserver // or // python3 manage.py runserver //
+
+And then access the browser through the localhost link.
